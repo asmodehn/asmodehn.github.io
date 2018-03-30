@@ -7,8 +7,8 @@ title: AlexV Personal Website
 ---
 
 
-Asmodehn's Lair
-===============
+![](https://gravatar.com/avatar/4760982bce87813e29fbac9630499ca9) AlexV
+=======================================================================
 
 Senior Software & Distributed Systems Engineer
 
