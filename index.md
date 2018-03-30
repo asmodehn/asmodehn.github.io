@@ -22,10 +22,10 @@ Professional Experience
 [![]({{ site.url }}/assets/images/AnBGames.png)](http://www.anbgames.com)
 [![]({{ site.url }}/assets/images/Gameloft.png)](http://www.gameloft.com)
 [![]({{ site.url }}/assets/images/Bigpoint.png)](http://www.bigpoint.com)
-[![]({{ site.url }}/assets/images/Interzone.png)](https://www.youtube.com/watch?v=zi8rbMCuwIc))
+[![]({{ site.url }}/assets/images/Interzone.png)](https://www.youtube.com/watch?v=zi8rbMCuwIc)
 [![]({{ site.url }}/assets/images/Thales.png)](http://thalesgroup.com)
 [![]({{ site.url }}/assets/images/SAP.png)](https://www.sap.com/france/products/product-visualization.html)
-[![]({{ site.url }}/assets/images/Airbus.png)]
+![]({{ site.url }}/assets/images/Airbus.png)
 
 Startups / Freelance Experience
 -------------------------------
@@ -38,11 +38,10 @@ Startups / Freelance Experience
 Personal Projects
 -----------------
 
-- [WkCMake](https://github.com/asmodehn/wkcmake) CMake project structure
-- [WkCore](https://github.com/asmodehn/wkcore) 
-- [WkCocos](https://github.com/asmodehn/wkcocos)
-- [SDLut](https://github.com/asmodehn/sdlut)
-- [AML](https://)
+- [WkCMake](https://github.com/asmodehn/wkcmake) Quick and easy CMake Project
+- [WkCore](https://github.com/asmodehn/wkcore) Low Level Cross Platform C++ Components
+- [WkCocos](https://github.com/asmodehn/wkcocos) Cocos wrapping for WkCmake
+- [SDLut](https://github.com/asmodehn/sdlut) SDL utility toolkit
 - [filefinder2](https://github.com/asmodehn/filefinder2) PEP420 for Python2 
 - [pyzmp](https://github.com/asmodehn/pyzmp) Multiprocess with ZMQ in Python
 - [Pyros Framework](https://github.com/pyros-dev) Dynamic Python over your favorite robot 
