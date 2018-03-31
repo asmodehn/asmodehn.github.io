@@ -30,9 +30,9 @@ Professional Experience
 Startups / Freelance Experience
 -------------------------------
 
-- [GamePark Studio](http://gameparkstudio.com) (Mobile Games: [Dragonfall](https://www.youtube.com/watch?v=7gFmaHIiSJA)) 
+- GamePark Studio (Mobile Games: [Dragonfall](https://www.youtube.com/watch?v=7gFmaHIiSJA)) 
 - [FairyDwarves](http://fairydwarves.com) (Software Development: [Project0](http://www.fairydwarves.com/products/project0), [Poker Study](http://www.fairydwarves.com/products/pokerstudy), etc.)
-- Asmodehn (Consulting)
+- [Asmodehn](http://www.asmodehn.fr) (Consulting)
 
 
 Personal Projects
@@ -41,8 +41,8 @@ Personal Projects
 - [WkCMake](https://github.com/asmodehn/wkcmake) Quick and easy CMake Project
 - [WkCore](https://github.com/asmodehn/wkcore) Low Level Cross Platform C++ Components
 - [WkCocos](https://github.com/asmodehn/wkcocos) Cocos wrapping for WkCmake
-- [SDLut](https://github.com/asmodehn/sdlut) SDL utility toolkit
-- [filefinder2](https://github.com/asmodehn/filefinder2) PEP420 for Python2 
+- [SDLut](https://github.com/asmodehn/sdlut) SDL C++ utility toolkit
+- [filefinder2](https://github.com/asmodehn/filefinder2) [PEP420](https://www.python.org/dev/peps/pep-0420/) for Python2 
 - [pyzmp](https://github.com/asmodehn/pyzmp) Multiprocess with ZMQ in Python
 - [Pyros Framework](https://github.com/pyros-dev) Dynamic Python over your favorite robot 
 
