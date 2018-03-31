@@ -16,10 +16,10 @@
 title: Asmodehn's Lair
 email: asmodehn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Asmodehn's Dev Workshop. I specialize in developing 
+  Welcome to Asmodehn's Dev Workshop. We specialize in developing 
   software libraries and tools for games, simulations, and distributed
-  systems. Here you can find links to what I did before, and what I am still doing...
-  Do not hesitate to contact me for any question or enquiries.      
+  systems. Here you can find links to what we did before, and what we're still doing...
+  Do not hesitate to contact us for any question or enquiries.      
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: asmodehn
