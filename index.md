@@ -17,6 +17,8 @@ Professional Experience
 
 10+ years developing distributed systems for different companies : 
 
+[![]({{ site.url }}/assets/images/hadean.png)](http://hadean.com/)
+[![]({{ site.url }}/assets/images/plex.png)](http://plex.tv/)
 [![]({{ site.url }}/assets/images/YujinRobot.png)](http://en.yujinrobot.com/)
 [![]({{ site.url }}/assets/images/GoCart.png)](http://gocart.yujinrobot.com/)
 [![]({{ site.url }}/assets/images/AnBGames.png)](http://www.anbgames.com)
