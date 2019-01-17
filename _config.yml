@@ -17,9 +17,11 @@ title: Asmodehn's Lair
 email: asmodehn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Asmodehn's Dev Workshop. We specialize in developing 
-  software libraries and tools for games, simulations, and distributed
-  systems. Here you can find links to what we did before, and what we're still doing...
-  Do not hesitate to contact us for any question or enquiries.      
+  software components and tools for games, simulations and various cloud applications. 
+  We help bring to life, run and maintain all kinds of distributed systems.
+  We are focusing on developing solutions for self sustaining complex systems.
+  If you are looking for help on your software journey, do not hesitate to get in touch.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: asmodehn
